@@ -1,0 +1,23 @@
+{
+  "name": "CalcNinja",
+  "short_name": "CalcNinja",
+  "description": "CalcNinja \u2014 a professional calculation workspace for basic, scientific, financial, statistics, matrix, graphing, and conversion tasks.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "icons": [
+    {
+      "src": "logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": [
+    "education",
+    "utilities",
+    "productivity"
+  ]
+}
